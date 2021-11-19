@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1587910212 source:c:\users\juand\onedrive\escritorio\juan\universidad\tercer año\metodologia\practica1\main.c
+	<stdio.h>
+	<locale.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdbool.h>
+

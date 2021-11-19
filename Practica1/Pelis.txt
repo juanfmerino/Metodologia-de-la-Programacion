@@ -1,0 +1,92 @@
+A001
+Titanic
+James Cameron
+1997
+A002
+Crepusculo
+Catherine Hardwicke
+2008
+A003
+Avatar
+James Cameron
+2009
+A004
+Moulin Rouge
+Baz Luhrmann
+2001
+A005
+El señor de los anillos
+Peter Jackson
+1985
+A008
+Pretty Woman
+Garry Marshall
+1990
+A007
+Torrente
+Santiago Segura
+2004 
+A009
+Aguas Oscuras
+Todd Haynes
+2020
+A010
+Richard Jewell
+Clint Eastwood 
+2020
+A011
+Judy Garland
+Rupert Goold
+1998
+A012
+The Terminator
+James Cameron 
+1984
+A013
+El Padrino
+Francis Ford Coppola
+2018
+A014
+Siempre a tu lado 
+Lasse Hallstrom
+2009
+A015
+Forest Gump
+Robert Zemeckis
+1994
+A016
+La vida es bella
+Robert Benigi
+1999
+A017
+En busca de la felicidad
+Gabriele Muccino
+2007
+A018
+Intocable
+Eric Toledano
+2012
+A019
+Coco
+Lee Unkrich
+2017
+A020
+El Rey Leon 
+Rober Allers 
+2011
+A021
+Vengadores
+Joe Russo
+2019
+A022
+La dama y el vagabundo 
+Hamilton Luske 
+1957
+A023
+Up
+Peter Docter
+2009
+A024
+Tu mejor amigo 
+Lasse Hallstrom
+2017
